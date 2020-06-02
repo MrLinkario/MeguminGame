@@ -1,0 +1,157 @@
+# Blender MTL File: 'octo_Callie.blend'
+# Material Count: 12
+
+newmtl M_Clothes
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump -bm 0.300000 images\\m_clothes_nrm.png
+map_Kd images\\m_clothes_alb.png
+map_d images\\m_clothes_alb.png
+
+newmtl M_Eye
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump -bm 0.300000 images\\m_eye_nrm.0.png
+map_Kd images\\m_eye_alb.0.png
+map_d images\\m_eye_alb.0.png
+
+newmtl M_Eyelid
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump -bm 0.300000 images\\m_eyelid_nrm.png
+map_Kd images\\m_eyelid_alb.0.png
+map_d images\\m_eyelid_alb.0.png
+
+newmtl M_Frame
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump -bm 0.300000 images\\Boss\\m_frame_nrm.png
+map_Kd images\\Boss\\m_frame_alb.png
+map_d images\\Boss\\m_frame_alb.png
+
+newmtl M_Grass
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump -bm 0.300000 images\\Boss\\m_grass_nrm.png
+map_Kd images\\Boss\\m_grass_alb.png
+map_d images\\Boss\\m_grass_alb.png
+
+newmtl M_Hair
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump -bm 0.300000 images\\m_hair_nrm.png
+map_Kd images\\m_hair_alb.png
+map_d images\\m_hair_alb.png
+
+newmtl M_Hair.002
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump -bm 0.300000 images\\m_hair_nrm.png
+map_Kd images\\m_hair_alb.png
+map_d images\\m_hair_alb.png
+
+newmtl M_Sashimi
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump -bm 0.300000 images\\m_sashimi_nrm.png
+map_Kd images\\m_sashimi_alb.png
+map_d images\\m_sashimi_alb.png
+
+newmtl M_Shiso
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump -bm 0.300000 images\\m_shiso_nrm.png
+map_Kd images\\m_shiso_alb.png
+map_d images\\m_shiso_alb.png
+
+newmtl M_Skin
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump -bm 0.300000 images\\m_skin_nrm.png
+map_Kd images\\m_skin_alb.png
+map_d images\\m_skin_alb.png
+
+newmtl M_Skin.005
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump -bm 0.300000 images\\m_skin_nrm.png
+map_Kd images\\m_skin_alb.png
+map_d images\\m_skin_alb.png
+
+newmtl M_Spangles
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd images\\m_spangles_alb.png
+map_d images\\m_spangles_alb.png

@@ -1,0 +1,68 @@
+# Blender MTL File: 'SovietKnuckles.blend'
+# Material Count: 6
+
+newmtl Material_1
+Ns 96.078443
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\cloto\\Desktop\\blender\\grafca2\\qchljccdm5ts-TigerI\\PzVI_Tiger_I_track.dds
+
+newmtl Material_1.003
+Ns 96.078443
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\cloto\\Desktop\\blender\\grafca2\\qchljccdm5ts-TigerI\\PzVl_Tiger_I.dds
+
+newmtl Plastic
+Ns 96.078443
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.019653 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\cloto\\Desktop\\blender\\grafca2\\1280px-Flag_of_the_Turkmen_Soviet_Socialist_Republic_(1926-1937).svg.png
+
+newmtl Wood
+Ns 96.078443
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.342337 0.158188
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\cloto\\Desktop\\blender\\grafca2\\Russia_flag.png
+
+newmtl body_color
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Ugandan_Knuckles\\Ugandan Knuckles\\TEXTURES\\Knuckles color.png
+
+newmtl eyes
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Ugandan_Knuckles\\Ugandan Knuckles\\TEXTURES\\eyes.png
